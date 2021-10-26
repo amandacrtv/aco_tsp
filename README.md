@@ -42,7 +42,7 @@ first checked which points it can visit from where it is at the moment. The calc
 logic presented in the concepts seen in class. 
 
 The update of the pheromone variation to be added on edge is adapted from the ant-cycle technique discussed in the 
-article _Ant system: optimization by a colony of cooperating agents (Dorigo; Maniezzo; Colorni, 1996)_, 
+paper [_Ant system: optimization by a colony of cooperating agents (Dorigo; Maniezzo; Colorni, 1996)_](https://ieeexplore.ieee.org/document/484436), 
 in which in this implementation the constant defined by the colony multiplied by the total weight of 
 the path divided by 100. The ant-cycle method was chosen because it presents better results than ant-density 
 and ant-quantity, which make use of local information; they do not look at the path as one all. 
