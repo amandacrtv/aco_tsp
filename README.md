@@ -2,7 +2,7 @@
 
 An Ant Colony Optimization algorithm developed from scratch to solve the longest path problem, implemented using Python 3.8.
 
-It was created as an assignment for the Natural Computing course at UFMG in the first term of 2020 (01/2020).
+It was created as an assignment for the Natural Computing course at UFMG in the second term of 2020 (02/2020).
 
 ## Instructions
 
